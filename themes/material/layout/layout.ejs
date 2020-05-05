@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title><%- config.title %></title>
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> 
+  <%- css(['css/style.css']) %>
+</head>
+<body>
+  
+  <nav class="grey lighten-1 z-depth-0" role="navigation">
+    <div class="nav-wrapper container">
+      <a href="/" class="brand-logo"><%- config.title %></a>
+      <ul class="right hide-on-med-and-down">
+        <li class="<% if (is_current('placements')) { %>active<% } %>">
+          <a class="dropdown-trigger" href="#" data-target="placements-dropdown">
+            placements
+            <i class="material-icons right">arrow_drop_down</i>
+          </a>
+        </li>
+        <ul id="placements-dropdown" class="dropdown-content">
+          <li class="<% if (is_current('placements/first-year')) { %>active<% } %>">
+            <a href="<%- url_for('placements/first-year')%>">
+              first year
+            </a>
+          </li>
+          <li class="<% if (is_current('placements/community')) { %>active<% } %>">
+            <a href="<%- url_for('placements/community')%>">
+              community
+            </a>
+          </li>
+          <li class="<% if (is_current('placements/second-year')) { %>active<% } %>">
+            <a href="<%- url_for('placements/second-year')%>">
+              second year
+            </a>
+          </li>
+        </ul>
+
+        <li class="<% if (is_current('resume')) { %>active<% } %>">
+          <a href="<%- url_for('resume')%>">resume</a>
+        </li>
+
+        <li class="<% if (is_current('philosophy')) { %>active<% } %>">
+          <a href="<%- url_for('philosophy')%>">philosophy</a>
+        </li>
+
+        <li class="<% if (is_current('blog')) { %>active<% } %>">
+          <a href="<%- url_for('blog')%>">blog</a>
+        </li>
+      </ul>
+
+      <ul id="nav-mobile" class="sidenav">
+        <li class="<% if (is_current('/')) { %>active<% } %>">
+          <a href="<%- url_for('')%>">home</a>
+        </li>
+
+        <li class="<% if (is_current('placements/first-year')) { %>active<% } %>">
+          <a href="<%- url_for('placements/first-year')%>">first year</a>
+        </li>
+
+        <li class="<% if (is_current('placements/community')) { %>active<% } %>">
+          <a href="<%- url_for('placements/community')%>">community</a>
+        </li>
+
+        <li class="<% if (is_current('placements/second-year')) { %>active<% } %>">
+          <a href="<%- url_for('placements/second-year')%>">second year</a>
+        </li>
+
+        <li class="<% if (is_current('resume')) { %>active<% } %>">
+          <a href="<%- url_for('resume')%>">resume</a>
+        </li>
+
+        <li class="<% if (is_current('philosophy')) { %>active<% } %>">
+          <a href="<%- url_for('philosophy')%>">philosophy</a>
+        </li>
+
+        <li class="<% if (is_current('blog')) { %>active<% } %>">
+          <a href="<%- url_for('blog')%>">blog</a>
+        </li>
+      </ul>
+      <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <%- body %>
+  </div>
+  
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <%- js(['js/init.js']) %>
+
+  </body>
+</html>
