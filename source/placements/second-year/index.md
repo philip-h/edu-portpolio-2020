@@ -24,3 +24,20 @@ Unfortunately, due to the Covid-19 pandemic, my time at this placement was cut i
 <div class="divider"></div>
 
 ### proof that I can plan
+
+#### unit plans
+{% buttonlink "Grade 11 CS Unit Plans" https://drive.google.com/open?id=1ksMIG3V8SWF4z-gR7BtLk4POV1NylFMl %}
+<br/>
+{% buttonlink "Grade 11 CS Unit Plan" https://drive.google.com/open?id=1ksMIG3V8SWF4z-gR7BtLk4POV1NylFMl %}
+<br/>
+{% buttonlink "Grade 12 Math Unit Plan" https://drive.google.com/open?id=1mGu0NGRfp0W7f3QlNnY-B_VOecFSmtb0 %}
+
+#### lesson plans
+{% buttonlink "Grade 6 Math Lesson Plan" https://drive.google.com/open?id=12ElN7SoXkVVWk_R_Xf0dr11T2nqD7bXi %}
+<br/>
+{% buttonlink "Grade 10 CS Equity Lesson" https://drive.google.com/open?id=1dcyuh-z7c0Kga0MYjK5t2p_ddNI5kb5o %}
+<br/>
+{% buttonlink "Grade 12U Guided Lesson" https://drive.google.com/open?id=1aWOIT1_fDpb77OWcN1voYL2co_6PrIUO %}
+<br/>
+{% buttonlink "Grade 11U CS Lesson" https://drive.google.com/open?id=1LxeWxozwXfKvdtjjY91CLpRizZagUO75 %}
+<br/><br/>
