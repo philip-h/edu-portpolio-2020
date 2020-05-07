@@ -30,28 +30,28 @@ My first-year practicum was an unforgettable experience. I was able to connect w
 #### photos
 
 <div class="row section">
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="A game created with a micro controller. There are two buttons, thus two players. A light will flash and the first person to press the button gains a point. First person to three points wins!" src="/imgs/placements/board.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="A snippet of a diagram off the first quiz I was present for in my placement." src="/imgs/placements/adder.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="A full adder created by one of the students. Full adders are a crutial building block for modern computers." src="/imgs/placements/bread_box.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
-    <img class="z-depth-1 materialboxed" data-caption="The inside of a computer. Students were tasked with taking the computer apart to see what's inside." src="/imgs/placements/computer.jpg" height="200">
+  <div class="col s12 m6">
+    <img class="z-depth-1 materialboxed" data-caption="The inside of a computer. Students were tasked with taking the computer apart to see what's inside." src="/imgs/placements/computer.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="Info poster for the Computer Technology course." src="/imgs/placements/ComputerTechnology.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="A screen capture of the game I was making with students in the first semester." src="/imgs/placements/gamemaker.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
-    <img class="z-depth-1 materialboxed" data-caption="A photo from the Terry Fox walk. It was a great day to meet staff, admin, and other TC's from different universities." src="/imgs/placements/terry.jpg" height="200">
+  <div class="col s12 m6">
+    <img class="z-depth-1 materialboxed" data-caption="A photo from the Terry Fox walk. It was a great day to meet staff, admin, and other TC's from different universities." src="/imgs/placements/terry.png" height="200">
   </div>
-  <div class="col s12 m6 l3">
+  <div class="col s12 m6">
     <img class="z-depth-1 materialboxed" data-caption="A VHS movie about the beginning of the two biggest tech companies in the world: Microsoft and Apple." src="/imgs/placements/video.png" height="200">
   </div>
 </div>
