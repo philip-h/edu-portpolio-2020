@@ -6,7 +6,7 @@ date: 2020-05-05 15:07:10
 
 #### Children are intelligent and loving creations of God.
 
-We must, as educators, believe children to be inherently intelligent and inherently loving. When we believe children to be intelligent, we are not afraid to challenge their current limits, we are free to believe whole heatedly that children can excel in academics, even if they don’t believe it themselves. When educators believe students to be loving creations of God, we will be quick to love and slow to judge. We will be granted the ability to view the student and their achievements as connected, yet separate; if we can help students believe the same, they will develop a Growth Mindset.
+We must, as educators, believe children to be inherently intelligent and inherently loving. When we believe children to be intelligent, we are not afraid to challenge their current limits, we are free to believe whole heartedly that children can excel in academics, even if they don’t believe it themselves. When educators believe students to be loving creations of God, we will be quick to love and slow to judge. We will be granted the ability to view the student and their achievements as connected, yet separate; if we can help students believe the same, they will develop a Growth Mindset.
 
 #### Morals and Teachables.
 
